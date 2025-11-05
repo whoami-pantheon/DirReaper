@@ -13,7 +13,7 @@ __/
 
 *   **Name:** Clive Akporube
 *   **GitHub:** [whoami-pantheon](https://github.com/whoami-pantheon)
-*   **LinkedIn:** [Clive Akporube](https://linkedin.com/in/clive-kaiser)
+*   **LinkedIn:** [Clive (Kaiser) Akporube](https://linkedin.com/in/clive-kaiser)
 
 **Fear the Reaper. Harvest the directories.** 
 
